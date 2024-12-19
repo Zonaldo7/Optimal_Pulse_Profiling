@@ -1,0 +1,20 @@
+.DS_Store
+/test_script
+__pycache__
+/data
+calibration_data.pickle
+/calibration_record
+RB\ copy.ipynb
+RB\ copy\ 2.ipynb
+job_ids.csv
+plot.ipynb
+RB_rep.py
+calibration_data10_26.pickle
+queue_test.py
+RB\ copy\ 3.ipynb
+RB_rep.py
+/data_bak
+/visualization
+/bench
+rb_data_*
+qv*
